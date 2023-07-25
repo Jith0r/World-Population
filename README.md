@@ -1,6 +1,7 @@
 # World APP
-# REACT JS
-# AXIOS FOR API FETCH
+
+REACT JS
+AXIOS FOR API FETCH
 
 Ceci est un projet réaliser sous React JS, ce projet a pour but de récupérer des données d'une API
 Puis les lister sur la page par ordre de population, pays les plus peuplés au moins peuplés
