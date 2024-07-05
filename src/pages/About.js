@@ -18,7 +18,7 @@ const About = () => {
         Et aussi un système de filtre par boutton radio, qui permet de filtrer
         les pays par leur continent. <br />
         <br />
-        @unkn0w_ind
+        @Jith0r
       </p>
     </div>
   );
